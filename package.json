@@ -1,0 +1,7 @@
+{
+  "name": "clg-predictor-deploy",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd rank-nest && npm install && npm run build"
+  }
+}

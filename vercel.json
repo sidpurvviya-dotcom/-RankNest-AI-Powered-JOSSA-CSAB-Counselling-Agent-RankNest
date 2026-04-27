@@ -1,0 +1,10 @@
+{
+  "framework": "vite",
+  "outputDirectory": "rank-nest/dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
