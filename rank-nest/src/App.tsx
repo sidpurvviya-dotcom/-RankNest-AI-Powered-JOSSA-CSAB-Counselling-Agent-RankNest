@@ -1,4 +1,3 @@
-import React from 'react';
 import ChatBox from './ChatBox';
 import ErrorBoundary from './ErrorBoundary';
 

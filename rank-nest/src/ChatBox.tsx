@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { Send, GraduationCap, RotateCcw } from 'lucide-react';
 import { predictColleges } from './predictCollegeTool';
 import type { StudentProfile, CollegeOption } from './predictCollegeTool';
